@@ -42,3 +42,24 @@ Recent/
 SendTo/
 Templates/
 スタート メニュー/
+
+# 一般的なIDEやシステム関連の無視するファイル
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Windows システム関連
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+Pictures/
+Saved Games/
+Videos/
+
+# Eclipse関連
+.metadata/
+eclipse-workspace/
